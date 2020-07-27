@@ -206,6 +206,3 @@ POST /matching/list
 }
 ```
 
-
-
-
